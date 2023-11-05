@@ -32,7 +32,7 @@ I'm a passionate and experienced web developer with a strong background in creat
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="100"/></a>
     </td>
     <td>
-    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="100" height="100" /></a>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="100" height="100"></a>
     </td>
 </tr>
 
@@ -48,6 +48,9 @@ I'm a passionate and experienced web developer with a strong background in creat
     </td>
     <td>
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="100" height="100" /></a>
+    </td>
+    <td>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="100" height="100" /></a>
     </td>
 
 </tr>
