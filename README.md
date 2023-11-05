@@ -17,7 +17,7 @@ I'm a passionate and experienced web developer with a strong background in creat
 
 ## 🔧 Language and Tools
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<table style="margin:0;padding:15px;border:None;">
+<table align="center" style="margin:0;padding:15px;border:None;">
 <tr>
    <td>
     <a href="#" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"/></a>
