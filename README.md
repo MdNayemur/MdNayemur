@@ -58,9 +58,13 @@ I'm a passionate and experienced web developer with a strong background in creat
 </table>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdNayemur)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdNayemur)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdNayemur\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdNayemur&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MdNayemur)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdNayemur&show_icons=true)   -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdNayemur&show_icons=true&theme=tokyonight)
 
+
+<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=MdNayemur)   -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MdNayemur&theme=tokyonight)](https://git.io/streak-stats)
