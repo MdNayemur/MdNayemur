@@ -11,6 +11,9 @@ I'm a passionate and experienced web developer with a strong background in creat
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mdnayemur.github.io/Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nayemur-rahman)
+[![Facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nayemur.rahman.376)
+[![Email](https://img.shields.io/badge/email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](nrahman2911@gmail.com)
+
 
 
 
