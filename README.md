@@ -20,11 +20,19 @@ I'm a passionate and experienced web developer with a strong background in creat
 <table align="center" style="margin:0;padding:15px;border:None;">
 <tr>
    <td>
-    <a href="#" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"/></a>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"/></a>
     </td>
-       <td>
-    <a href="#" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"width="100" height="100" />
-          </a>
+    <td>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100" height="100" /></a>
+    </td>
+    <td>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100" height="100" /></a>
+    </td>
+    <td>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="100"/></a>
+    </td>
+    <td>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="100" height="100" /></a>
     </td>
 </tr>
 </table>
