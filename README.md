@@ -1,5 +1,5 @@
-# Hi, I'm MD NAYEMUR RAHMAN  👋
-#### Web Developer
+<h1 align="center">Hi, I'm MD NAYEMUR RAHMAN 👋</h1>
+<h3 align="center"> An enthusiastic full stack web developer</h3>
 
 
 I'm a passionate and experienced web developer with a strong background in creating dynamic and user-friendly websites. I thrive on turning creative ideas into functional, visually appealing, and responsive web solutions. With a keen eye for design and a knack for problem-solving, I bring websites to life that not only look great but also perform seamlessly.
