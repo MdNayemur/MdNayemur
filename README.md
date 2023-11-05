@@ -35,6 +35,23 @@ I'm a passionate and experienced web developer with a strong background in creat
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="100" height="100" /></a>
     </td>
 </tr>
+
+<tr>
+    <td>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="100"/></a>
+    </td>
+    <td>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="100" height="100" /></a>
+    </td>
+    <td>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100" /></a>
+    </td>
+    <td>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="100" height="100" /></a>
+    </td>
+
+</tr>
+
 </table>
 
 
