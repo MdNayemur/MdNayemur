@@ -9,7 +9,7 @@ I'm a passionate and experienced web developer with a strong background in creat
 <b> JavaScript / PHP / HTML / CSS / Bootstrap / Laravel / jQuery / AJAX / MySQL / REST API </b>
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-D93B0D?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mdnayemur.github.io/Portfolio/)
+[![portfolio](https://img.shields.io/badge/portfolio-D93B0D?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mdnayemur.github.io/Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nayemur-rahman)
 [![Facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nayemur.rahman.376)
 [![Whatsapp](https://img.shields.io/badge/whatsapp-0CA80C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/1516134746)
