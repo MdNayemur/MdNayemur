@@ -38,7 +38,7 @@ I'm a passionate and experienced web developer with a strong background in creat
 
 <tr>
     <td>
-    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="100"/></a>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="100" height="100" /></a>
     </td>
     <td>
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="100" height="100" /></a>
