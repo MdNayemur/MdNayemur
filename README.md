@@ -6,7 +6,7 @@ I'm a passionate and experienced web developer with a strong background in creat
 - 📧 Reach me: nrahman2911@gmail.com
 
 ## 🛠 Skills
-JavaScript / PHP / HTML / CSS / Bootstrap / Laravel / jQuery / AJAX / MySQL / REST API
+<b> JavaScript / PHP / HTML / CSS / Bootstrap / Laravel / jQuery / AJAX / MySQL / REST API </b>
 
 
 
