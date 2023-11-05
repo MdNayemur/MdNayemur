@@ -15,6 +15,21 @@ I'm a passionate and experienced web developer with a strong background in creat
 [![Whatsapp](https://img.shields.io/badge/whatsapp-0CA80C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/1516134746)
 
 
+## 🔧 Language and Tools
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<table style="margin:0;padding:15px;border:None;">
+<tr>
+   <td>
+    <a href="#" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"/></a>
+    </td>
+       <td>
+    <a href="#" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"width="100" height="100" />
+          </a>
+    </td>
+</tr>
+</table>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdNayemur)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdNayemur&show_icons=true)  
